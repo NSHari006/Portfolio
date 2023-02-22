@@ -1,0 +1,61 @@
+#carousel-center{
+     /* display: flex;
+    justify-content: center;
+    align-content: center; */
+    bottom: 43%;  
+    background-color: transparent;
+
+} 
+
+p{
+    background-color: transparent;
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+    font-size: 30px;
+}
+
+
+#img-width{
+    height: 500px;
+    width: 50%;
+}
+
+#logo{
+    height: 110px;
+    padding-left: 8px;
+    margin-top: 7%;
+    margin-left: 4%;
+    padding-right: 4%;
+    float: left;
+
+}
+
+
+.name{
+   /* padding-top: 40px;
+   padding-left: 15%; */
+   padding: 0%;
+   margin-top: 85px;
+   float: left;
+
+  
+}
+
+#logo2{
+    height: 250px;
+    width: 900px;
+    padding-left: 150px;
+    padding-top: 90px;
+
+}
+
+.para{
+    border: 0px solid rgb(253, 252, 252);
+    padding: 100px;
+}
+
+.new2{
+    margin-top: 50px;
+}

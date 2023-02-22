@@ -1,0 +1,54 @@
+h2{
+    font-family: monospace;
+    padding-left: 20px;
+}
+.h3{
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 44%;
+    text-decoration: underline;
+    padding-top: 20px;
+}
+.h3-1{
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 42%;
+    text-decoration: underline;
+    margin-top: 25px;
+}
+
+    
+table{
+	width: 800px;
+	border :2px groove white;
+	overflow: hidden;
+	box-shadow: 0 0 20px rgba(162, 73, 73, 0.1);
+    margin-left: 15%;
+}
+
+.container {
+
+    
+    padding-top: 10px;
+ 
+
+}
+
+td {
+    
+	padding: 15px;
+	background-color: rgba(117, 115, 115, 0.2);
+	color: #f4f2f2;
+
+}
+b{
+    background: none;
+}
+td:hover {
+    color: aqua;
+}
+i{
+    background: none;
+}
+th{
+    background-color: rgba(117, 115, 115, 0.2);
+}
+

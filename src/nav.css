@@ -1,0 +1,49 @@
+*{
+    background-color: black;
+    padding: 0 ;
+    color: white;
+    
+    
+}
+
+#new-bar{ 
+    padding: 0;
+
+
+}
+
+
+.container-fluid{
+    display: flex;
+    justify-content: end;
+    position: fixed;
+    border-bottom: 2px solid white;
+    opacity: 80%;
+}
+
+
+.nav-item{
+    font-size: x-large;
+    color: white;
+}
+
+
+ul{
+    padding-top: 4%;
+}
+
+.active{
+    text-decoration: none;
+    color: white;
+}
+
+#tag{
+    text-decoration: none;
+    color: white;
+}
+
+#tag:hover{
+    color: aqua;
+    text-shadow: 20px;  
+}
+

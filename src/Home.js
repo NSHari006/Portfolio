@@ -13,7 +13,7 @@ const Home = () => {
         
         <div>
              <Navbar/> 
-            <img src={port} className="float-right" id="logo" ></img>
+            <img src={port} className="float-right" id="logo" alt="Loading"></img>
             <div className="name">
             <h1><em>I'm Hariharan </em></h1>
             <h1><em>Frontend Developer</em></h1>
@@ -21,7 +21,7 @@ const Home = () => {
         </div>
 
         <div >
-        <img src={logo} className="float-right" id="logo2" ></img>
+        <img src={logo} className="float-right" id="logo2" alt="Loading" ></img>
         </div>
         <hr className="new1"></hr>
          
